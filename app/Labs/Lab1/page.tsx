@@ -106,7 +106,7 @@ My favorite books (in no particular order)
   <br />
   Loading a local Image:
   <br/>
-  <img id="random-image" height="200px"  src="/images/dog.jpg"/>
+  <img id="random-image" height="200px"  src="/images/tesla_bot.jpg"/>
   </div>
 
   <div id="wd-forms">
